@@ -1,0 +1,81 @@
+2024-03-16 14:47:50,026 - root - [INFO] - ---------- Ask ChatGPT - Self-Annotation ------------
+2024-03-16 14:47:50,026 - root - [INFO] - dataname: wikigold
+2024-03-16 14:47:50,026 - root - [INFO] - folder: 0
+2024-03-16 14:47:50,026 - root - [INFO] - datamode: train_shuffle_42
+2024-03-16 14:47:50,026 - root - [INFO] - demo_datamode: train_shuffle_42
+2024-03-16 14:47:50,026 - root - [INFO] - model: gpt-3.5-turbo
+2024-03-16 14:47:50,026 - root - [INFO] - ports: None
+2024-03-16 14:47:50,027 - root - [INFO] - task_hint: None
+2024-03-16 14:47:50,027 - root - [INFO] - reason_hint: None
+2024-03-16 14:47:50,027 - root - [INFO] - reason_hint_person: None
+2024-03-16 14:47:50,027 - root - [INFO] - reason_hint_pos: None
+2024-03-16 14:47:50,027 - root - [INFO] - few_shot_setting: zs
+2024-03-16 14:47:50,027 - root - [INFO] - demo_size: 300
+2024-03-16 14:47:50,027 - root - [INFO] - demo_select_method: None
+2024-03-16 14:47:50,028 - root - [INFO] - demo_retrieval_method: None
+2024-03-16 14:47:50,028 - root - [INFO] - few_shot_number: 0
+2024-03-16 14:47:50,028 - root - [INFO] - n_skip: None
+2024-03-16 14:47:50,028 - root - [INFO] - diverseKNN_number: 50
+2024-03-16 14:47:50,028 - root - [INFO] - diverseKNN_sampling: random
+2024-03-16 14:47:50,028 - root - [INFO] - consistency: 1
+2024-03-16 14:47:50,028 - root - [INFO] - query_times: 5
+2024-03-16 14:47:50,028 - root - [INFO] - temperature: 0.7
+2024-03-16 14:47:50,028 - root - [INFO] - consistency_selection: two_stage_majority_voting
+2024-03-16 14:47:50,029 - root - [INFO] - tool_aug: None
+2024-03-16 14:47:50,029 - root - [INFO] - tool_desc: None
+2024-03-16 14:47:50,029 - root - [INFO] - parse_tool: hanlp
+2024-03-16 14:47:50,029 - root - [INFO] - self_annotation: True
+2024-03-16 14:47:50,029 - root - [INFO] - self_annotate_tag: None
+2024-03-16 14:47:50,029 - root - [INFO] - annotation_size: 500
+2024-03-16 14:47:50,029 - root - [INFO] - start_time: TIME_STAMP
+2024-03-16 14:47:50,029 - root - [INFO] - breakpoint_continue: False
+2024-03-16 14:47:50,029 - root - [INFO] - stop: None
+2024-03-16 14:47:50,030 - root - [INFO] - api_key: [{'key': 'sk-4xiiTbqBYkXPmU2q79090748331744668610668a88D30349', 'set_base': True, 'api_base': 'https://api.ai-gaochao.cn/v1'}]
+2024-03-16 14:47:50,030 - root - [INFO] - abb2labelname_path: data/wikigold/abb2labelname.json
+2024-03-16 14:47:50,030 - root - [INFO] - abb2lname: {'ORG': 'Organization', 'PER': 'Person', 'LOC': 'Location', 'MISC': 'Miscellaneous'}
+2024-03-16 14:47:50,030 - root - [INFO] - id2label: ['Organization', 'Person', 'Location', 'Miscellaneous']
+2024-03-16 14:47:50,030 - root - [INFO] - prompt_path: prompts/self_consistent_annotate/wikigold/self_annotation/train_shuffle_42/zs/train_shuffle_42_prompts__0.json
+2024-03-16 14:47:50,030 - root - [INFO] - MV_func: <function two_stage_majority_voting at 0x0000029BE4ACEE50>
+2024-03-16 14:47:50,030 - root - [INFO] - response_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV\TIME_STAMP_train_shuffle_42__0_response.txt
+2024-03-16 14:47:50,031 - root - [INFO] - log_path: log/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV\TIME_STAMP_train_shuffle_42__0_AskGPT.log
+2024-03-16 14:48:48,316 - root - [INFO] - ---------- Ask ChatGPT - Self-Annotation ------------
+2024-03-16 14:48:48,316 - root - [INFO] - dataname: wikigold
+2024-03-16 14:48:48,316 - root - [INFO] - folder: 0
+2024-03-16 14:48:48,316 - root - [INFO] - datamode: train_shuffle_42
+2024-03-16 14:48:48,316 - root - [INFO] - demo_datamode: train_shuffle_42
+2024-03-16 14:48:48,316 - root - [INFO] - model: gpt-3.5-turbo
+2024-03-16 14:48:48,317 - root - [INFO] - ports: None
+2024-03-16 14:48:48,317 - root - [INFO] - task_hint: None
+2024-03-16 14:48:48,317 - root - [INFO] - reason_hint: None
+2024-03-16 14:48:48,317 - root - [INFO] - reason_hint_person: None
+2024-03-16 14:48:48,317 - root - [INFO] - reason_hint_pos: None
+2024-03-16 14:48:48,317 - root - [INFO] - few_shot_setting: zs
+2024-03-16 14:48:48,317 - root - [INFO] - demo_size: 300
+2024-03-16 14:48:48,318 - root - [INFO] - demo_select_method: None
+2024-03-16 14:48:48,318 - root - [INFO] - demo_retrieval_method: None
+2024-03-16 14:48:48,318 - root - [INFO] - few_shot_number: 0
+2024-03-16 14:48:48,318 - root - [INFO] - n_skip: None
+2024-03-16 14:48:48,318 - root - [INFO] - diverseKNN_number: 50
+2024-03-16 14:48:48,318 - root - [INFO] - diverseKNN_sampling: random
+2024-03-16 14:48:48,318 - root - [INFO] - consistency: 1
+2024-03-16 14:48:48,318 - root - [INFO] - query_times: 5
+2024-03-16 14:48:48,318 - root - [INFO] - temperature: 0.7
+2024-03-16 14:48:48,319 - root - [INFO] - consistency_selection: two_stage_majority_voting
+2024-03-16 14:48:48,319 - root - [INFO] - tool_aug: None
+2024-03-16 14:48:48,319 - root - [INFO] - tool_desc: None
+2024-03-16 14:48:48,319 - root - [INFO] - parse_tool: hanlp
+2024-03-16 14:48:48,319 - root - [INFO] - self_annotation: True
+2024-03-16 14:48:48,319 - root - [INFO] - self_annotate_tag: None
+2024-03-16 14:48:48,319 - root - [INFO] - annotation_size: 500
+2024-03-16 14:48:48,320 - root - [INFO] - start_time: TIME_STAMP
+2024-03-16 14:48:48,320 - root - [INFO] - breakpoint_continue: False
+2024-03-16 14:48:48,320 - root - [INFO] - stop: None
+2024-03-16 14:48:48,320 - root - [INFO] - api_key: [{'key': 'sk-4xiiTbqBYkXPmU2q79090748331744668610668a88D30349', 'set_base': True, 'api_base': 'https://api.ai-gaochao.cn/v1'}]
+2024-03-16 14:48:48,320 - root - [INFO] - abb2labelname_path: data/wikigold/abb2labelname.json
+2024-03-16 14:48:48,320 - root - [INFO] - abb2lname: {'ORG': 'Organization', 'PER': 'Person', 'LOC': 'Location', 'MISC': 'Miscellaneous'}
+2024-03-16 14:48:48,320 - root - [INFO] - id2label: ['Organization', 'Person', 'Location', 'Miscellaneous']
+2024-03-16 14:48:48,320 - root - [INFO] - prompt_path: prompts/self_consistent_annotate/wikigold/self_annotation/train_shuffle_42/zs/train_shuffle_42_prompts__0.json
+2024-03-16 14:48:48,321 - root - [INFO] - MV_func: <function two_stage_majority_voting at 0x0000021ABAECEE50>
+2024-03-16 14:48:48,321 - root - [INFO] - response_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV\TIME_STAMP_train_shuffle_42__0_response.txt
+2024-03-16 14:48:48,321 - root - [INFO] - log_path: log/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV\TIME_STAMP_train_shuffle_42__0_AskGPT.log
+2024-03-16 14:48:48,333 - root - [INFO] - Annotation size = 500

@@ -1,0 +1,1372 @@
+[
+    {
+        "idx": 0,
+        "sentence": "UK Edition came with the OSC-DIS video , and most of the tracks were re-engineered .",
+        "label": "{'OSC-DIS': 'Miscellaneous', 'UK': 'Location'}"
+    },
+    {
+        "idx": 1,
+        "sentence": "During this time Couch 's Division was detached from the Army and was occupied with guarding the fords on the Potomac .",
+        "label": "{'Potomac': 'Location', \"Couch 's Division\": 'Organization', 'Army': 'Organization'}"
+    },
+    {
+        "idx": 2,
+        "sentence": "At the Battle of Gettysburg in July , it helped defend the left flank of the Union army .",
+        "label": "{'Union': 'Organization', 'Battle of Gettysburg': 'Miscellaneous'}"
+    },
+    {
+        "idx": 3,
+        "sentence": "The 139th supported Sheridan in the Appomattox Campaign and fought in the Battle of Sayler 's Creek .",
+        "label": "{'139th': 'Organization', 'Appomattox Campaign': 'Miscellaneous', \"Battle of Sayler 's Creek\": 'Miscellaneous', 'Sheridan': 'Person'}"
+    },
+    {
+        "idx": 4,
+        "sentence": "Two cars were demolished and the two following cars were telescoped .",
+        "label": "{}"
+    },
+    {
+        "idx": 5,
+        "sentence": "The second car of the West Jersey train was also carried into the ditch , the third and fourth cars being telescoped .",
+        "label": "{'West Jersey': 'Location'}"
+    },
+    {
+        "idx": 6,
+        "sentence": "As onlookers watched through the night , the mangled and burned bodies of the dead were carried from the wreckage which trapped them and laid side by side on the gravel bank near the track , with no other covering than the few newspapers gathered from the passengers .",
+        "label": "{}"
+    },
+    {
+        "idx": 7,
+        "sentence": "James W. Hoyt , Secretary of the New Jersey Department of Public Safety , immediately upon learning of the extent of the accident , telegraphed for the Philadelphia Medical Emergency Corps , fifteen of whom responded , and hurried to Atlantic City on a special train which left Philadelphia at 10:45 pm .",
+        "label": "{'Philadelphia': 'Location', 'Atlantic City': 'Location', 'James W. Hoyt': 'Person', 'Philadelphia Medical Emergency Corps': 'Organization', 'New Jersey Department of Public Safety': 'Organization'}"
+    },
+    {
+        "idx": 8,
+        "sentence": "He went directly into the block tower and questioned operator George F. Hauser. Houser told him that he thought the excursion train had time to cross the tracks of the Reading before the express got there and he set the \" clear \" signal for the West Jersey train .",
+        "label": "{'West Jersey': 'Location', 'George F. Hauser. Houser': 'Person', 'Reading': 'Location'}"
+    },
+    {
+        "idx": 9,
+        "sentence": "Before Hauser could make a further explanation to the coroner he received an order from the railroad officials to say nothing .",
+        "label": "{'Hauser': 'Person'}"
+    },
+    {
+        "idx": 10,
+        "sentence": "His reputation was that of an experienced engineer and a man of exceptionally high moral character , and not of a reckless or careless disposition .",
+        "label": "{}"
+    },
+    {
+        "idx": 11,
+        "sentence": "Three others found that \" the cause of the collision was the failure of Edward Farr , engineer of Train No. 23 , to give heed in time to the semaphore signals and crossing under the rules. .. the tower man , George F. Hauser , may have used poor judgment in his estimate of the distance away of the Atlantic City Railroad train when he gave the white boards to the West Jersey and Seashore Excursion Train No . 700 . \"",
+        "label": "{'Edward Farr': 'Person', 'George F. Hauser': 'Person', 'Seashore': 'Location', 'West Jersey': 'Location', 'Atlantic City Railroad': 'Location'}"
+    },
+    {
+        "idx": 12,
+        "sentence": "They participated in the GMAC Bowl , losing to Tulsa 63-7 .",
+        "label": "{'GMAC Bowl': 'Miscellaneous', 'Tulsa': 'Organization'}"
+    },
+    {
+        "idx": 13,
+        "sentence": "Overall , 53 lettermen are returning from the 2006 team ( 25 on offense , 28 on defense and 0 on special teams ) .",
+        "label": "{}"
+    },
+    {
+        "idx": 14,
+        "sentence": "30 Seconds to Mars ( or Thirty Seconds to Mars ) is an alternative rock band from Los Angeles , California , featuring Jared Leto , Shannon Leto , Tomo Milicevic .",
+        "label": "{'Shannon Leto': 'Person', 'Tomo Milicevic': 'Person', 'Los Angeles': 'Location', 'Jared Leto': 'Person', '30 Seconds to Mars': 'Organization', 'Thirty Seconds to Mars': 'Organization', 'California': 'Location'}"
+    },
+    {
+        "idx": 15,
+        "sentence": "Their sophomore album , A Beautiful Lie , was released on August 30 , 2005 .",
+        "label": "{'A Beautiful Lie': 'Miscellaneous'}"
+    },
+    {
+        "idx": 16,
+        "sentence": "The second nomination was for Best Rock Video ; however , they lost to AFI 's \" Miss Murder \" .",
+        "label": "{'AFI': 'Organization', 'Miss Murder': 'Miscellaneous'}"
+    },
+    {
+        "idx": 17,
+        "sentence": "\" Jared and Shannon put together this thing called Environmentor which is illustrating ways --- alternatives --- to kind of clean up some of the mess we leave behind .",
+        "label": "{'Jared': 'Person', 'Shannon': 'Person'}"
+    },
+    {
+        "idx": 18,
+        "sentence": "They are also scheduled to play Roskilde , Rock am Ring , Pinkpop , Give It A Name Festival and Download .",
+        "label": "{'Rock am Ring': 'Miscellaneous', 'Pinkpop': 'Miscellaneous', 'Roskilde': 'Miscellaneous', 'Download': 'Miscellaneous', 'Give It A Name Festival': 'Miscellaneous'}"
+    },
+    {
+        "idx": 19,
+        "sentence": "On August 8th , 2007 , Kerrang ! announced that 30 Seconds to Mars has been nominated for two categories of the Kerrang !",
+        "label": "{'Kerrang !': 'Organization', '30 Seconds to Mars': 'Organization'}"
+    },
+    {
+        "idx": 20,
+        "sentence": "They beat out Korn and had amassed over 7 million votes .",
+        "label": "{'Korn': 'Organization'}"
+    },
+    {
+        "idx": 21,
+        "sentence": "It is also the name of one of their songs in the album 30 Seconds to Mars .",
+        "label": "{'30 Seconds to Mars': 'Miscellaneous'}"
+    },
+    {
+        "idx": 22,
+        "sentence": "Another track featured on certain imported 30 Seconds to Mars titles is \" Anarchy in Tokyo \" , a song that was recorded during the process of their self-titled debut .",
+        "label": "{'30 Seconds to Mars': 'Organization', 'Anarchy in Tokyo': 'Miscellaneous'}"
+    },
+    {
+        "idx": 23,
+        "sentence": "Also made available are the demo versions of \" Buddha for Mary \" and \" 93 Million Miles \" ; the latter originally had lyrics referring to the band Deadsy , whose members Dr. Nner and P. Exeter Blue I provided extra instrumentation on several tracks , but the lyrics were changed after the two bands were involved in a small feud .",
+        "label": "{'Buddha for Mary': 'Miscellaneous', '93 Million Miles': 'Miscellaneous', 'Dr. Nner': 'Person', 'P. Exeter Blue I': 'Person', 'Deadsy': 'Organization'}"
+    },
+    {
+        "idx": 24,
+        "sentence": "The 38th NAACP Image Awards honored the best in film , television and music for 2006 .",
+        "label": "{'38th NAACP Image Awards': 'Miscellaneous'}"
+    },
+    {
+        "idx": 25,
+        "sentence": "The following recipients received distinguished awards by the NAACP for their contributions to arts , civil rights , news , and humanitarian efforts .",
+        "label": "{'NAACP': 'Organization'}"
+    },
+    {
+        "idx": 26,
+        "sentence": "Its units supported the Allied invasion of Normandy ( June 1944 ) ; the Allied ground troops during the Battle of the Bulge ( December 1944 through January 1945 ) ; the Allied airborne attack on Holland ( Operation Market Garden , September 1944 ) ; the defense of the Remagen bridgehead against German air attacks ( March 1945 ) ; and the airborne attack across the Rhine ( March 1945 ) .",
+        "label": "{'Battle of the Bulge': 'Miscellaneous', 'Allied': 'Organization', 'German': 'Miscellaneous', 'Holland': 'Location', 'Remagen': 'Location', 'Operation Market Garden': 'Miscellaneous', 'Rhine': 'Location', 'Normandy': 'Location'}"
+    },
+    {
+        "idx": 27,
+        "sentence": "Assigned or attached units of the division participated in numerous exercises with the Spanish Air Defense Command , and in some instances , with the U.S. Sixth Fleet .",
+        "label": "{'U.S. Sixth Fleet': 'Organization', 'Spanish Air Defense Command': 'Organization'}"
+    },
+    {
+        "idx": 28,
+        "sentence": "Redesignated 65 Air Division ( Defense ) on 17 April 1952 .",
+        "label": "{'65 Air Division ( Defense )': 'Organization'}"
+    },
+    {
+        "idx": 29,
+        "sentence": "Inactivated on 30 June 1991 .",
+        "label": "{}"
+    },
+    {
+        "idx": 30,
+        "sentence": "Iceland Air Defense Force , 24 April 1952 -- 8 March 1954 .",
+        "label": "{'Iceland Air Defense Force': 'Organization'}"
+    },
+    {
+        "idx": 31,
+        "sentence": "Sembach Air Base , Germany , 1 June 1985 ; Lindsey Air Station , Germany , 1 October 1987 -- 30 June 1991 .",
+        "label": "{'Germany': 'Location', 'Sembach Air Base': 'Organization', 'Lindsey Air Station': 'Organization'}"
+    },
+    {
+        "idx": 32,
+        "sentence": "Curry , 29 July 1945 -- unkn .",
+        "label": "{'Curry': 'Person'}"
+    },
+    {
+        "idx": 33,
+        "sentence": "In 1963 the Victorian Broadcasting Network purchased Nicholson 's and sold the electrical division of the organisation to Vox Adeon .",
+        "label": "{\"Nicholson 's\": 'Organization', 'Vox Adeon': 'Organization', 'Victorian Broadcasting Network': 'Organization'}"
+    },
+    {
+        "idx": 34,
+        "sentence": "The limited hours of broadcasting 69 years ago have gradually been increased to a 24 hour , seven day a week service .",
+        "label": "{}"
+    },
+    {
+        "idx": 35,
+        "sentence": "In 1987 the TAB purchased 6PR to secure the future of race broadcasts in Western Australia and races were broadcast across the station during popular talkback programs .",
+        "label": "{'TAB': 'Organization', 'Western Australia': 'Location', '6PR': 'Organization'}"
+    },
+    {
+        "idx": 36,
+        "sentence": "During the Australian Rules Football Season 882 6PR is Perth 's Football Leader .",
+        "label": "{'882 6PR': 'Organization', 'Perth': 'Location'}"
+    },
+    {
+        "idx": 37,
+        "sentence": "Peter Vlahos is based in the 6PR Studio while Karl Langdon & Harvey Deegan base themselves at different matches .",
+        "label": "{'Harvey Deegan': 'Person', '6PR': 'Organization', 'Peter Vlahos': 'Person', 'Karl Langdon': 'Person'}"
+    },
+    {
+        "idx": 38,
+        "sentence": "As of the 2007/2008 A-League season 6PR will again broadcast every Perth Glory Home & Away fixture .",
+        "label": "{'6PR': 'Organization', 'Perth Glory': 'Organization', '2007/2008 A-League': 'Organization'}"
+    },
+    {
+        "idx": 39,
+        "sentence": "883JIA FM , is a Chinese radio station of SAFRA Radio in Singapore .",
+        "label": "{'Singapore': 'Location', 'Chinese': 'Miscellaneous', 'SAFRA Radio': 'Organization', '883JIA FM': 'Organization'}"
+    },
+    {
+        "idx": 40,
+        "sentence": "883Jia FM Official Website",
+        "label": "{'883Jia FM': 'Organization'}"
+    },
+    {
+        "idx": 41,
+        "sentence": "Both were transferred from Kreis Flensburg with the establishment of the current Danish-German border .",
+        "label": "{'Danish-German': 'Location', 'Kreis Flensburg': 'Location'}"
+    },
+    {
+        "idx": 42,
+        "sentence": "He is known to have composed three chansons de geste as well as the romance Cleomadé .",
+        "label": "{'Cleomadé': 'Miscellaneous'}"
+    },
+    {
+        "idx": 43,
+        "sentence": "Despite being born in the West African country of the Cape Verde islands he plays for the Swiss Under-19s side .",
+        "label": "{'West African': 'Miscellaneous', 'Cape Verde islands': 'Location', 'Swiss': 'Miscellaneous', 'Under-19s': 'Organization'}"
+    },
+    {
+        "idx": 44,
+        "sentence": "Born on April 16 , 1819 in Gostkócity near Łęczyca in a Polish szlachta family of Lipscy to Jacob Lipski and Marjania Zaluska , she spent her life in the Prussian partition , including the Grand Duchy of Poznań .",
+        "label": "{'Polish': 'Miscellaneous', 'Łęczyca': 'Location', 'Jacob Lipski': 'Person', 'Prussian': 'Miscellaneous', 'Lipscy': 'Location', 'Grand Duchy of Poznań': 'Location', 'Marjania Zaluska': 'Person'}"
+    },
+    {
+        "idx": 45,
+        "sentence": "She took part in many activities designed to promote Polish culture , and sponsored and organized various festivities or organizations ( such as the Society of Scientific Help for Girls ( Towarzystwo Pomocy Naukowej dla dziewcząt ) ) .",
+        "label": "{'Society of Scientific Help for Girls': 'Organization', 'Polish': 'Miscellaneous', 'Towarzystwo Pomocy Naukowej dla dziewcząt': 'Organization'}"
+    },
+    {
+        "idx": 46,
+        "sentence": "Excluded from all political and social rights , they were only allowed to enter a church by a special door , and during the service a rail separated them from the other worshippers .",
+        "label": "{}"
+    },
+    {
+        "idx": 47,
+        "sentence": "It has been suggested that they were descendants of the Visigoths , and somebody derives the name from caas ( dog ) and Goth .",
+        "label": "{'Goth': 'Miscellaneous', 'Visigoths': 'Miscellaneous'}"
+    },
+    {
+        "idx": 48,
+        "sentence": "It was not until the French Revolution that any steps were taken to ameliorate their lot , but today they no longer form a class and have been practically lost sight of in the general peasantry .",
+        "label": "{'French Revolution': 'Miscellaneous'}"
+    },
+    {
+        "idx": 49,
+        "sentence": "Robert Gibson succeeded Wren as the \" Liberal-Labour \" MPP for Kenora and served until the 1967 election .",
+        "label": "{'Liberal-Labour': 'Organization', 'Kenora': 'Location', 'Robert Gibson': 'Person', 'Wren': 'Person'}"
+    },
+    {
+        "idx": 50,
+        "sentence": "It was probably first performed by Gradsky on August 20 , 1998 on Vasilievsky Spusk next to the Red Square in Moscow .",
+        "label": "{'Gradsky': 'Person', 'Red Square': 'Location', 'Vasilievsky Spusk': 'Location', 'Moscow': 'Location'}"
+    },
+    {
+        "idx": 51,
+        "sentence": "The Amateur Hockey Association of Canada ( AHAC ) was an amateur men 's ice hockey league founded in 1886 , in existence until 1898 .",
+        "label": "{'AHAC': 'Organization', 'Amateur Hockey Association of Canada': 'Organization'}"
+    },
+    {
+        "idx": 52,
+        "sentence": "They agreed that the season should run from the 1st of January until the 15th of March .",
+        "label": "{}"
+    },
+    {
+        "idx": 53,
+        "sentence": "The rover would line up behind the centre , with the point and coverpoint following , in an ' I ' formation towards the goaltender .",
+        "label": "{}"
+    },
+    {
+        "idx": 54,
+        "sentence": "There were no boards along the sides of the ice , and there were no standard dimensions for a rink , although dimensions were instituted for the positioning of the goal out from the ends of the rink .",
+        "label": "{}"
+    },
+    {
+        "idx": 55,
+        "sentence": "The first championship team of the AHAC was the Montreal Crystals , having unofficially being declared the champions before the AHAC .",
+        "label": "{'AHAC': 'Organization', 'Montreal Crystals': 'Organization'}"
+    },
+    {
+        "idx": 56,
+        "sentence": "In 1893 , the first year since 1888 where the AHAC played under a series system , the Montreal Hockey Club lost their first game against the Ottawa Hockey Club , and proceeded to win their next seven en route to the championship .",
+        "label": "{'Ottawa Hockey Club': 'Organization', 'Montreal Hockey Club': 'Organization', 'AHAC': 'Organization'}"
+    },
+    {
+        "idx": 57,
+        "sentence": "In the end , the MAAA investigated into why its hockey club wanted to refuse and return the trophy , even though such an action would damage the reputation of the MAAA .",
+        "label": "{'MAAA': 'Organization'}"
+    },
+    {
+        "idx": 58,
+        "sentence": "† Stanley Cup winner",
+        "label": "{'Stanley Cup': 'Miscellaneous'}"
+    },
+    {
+        "idx": 59,
+        "sentence": "Andrew Sant ( b. 1950 ) is an English born Australian poet .",
+        "label": "{'Andrew Sant': 'Person', 'English': 'Miscellaneous', 'Australian': 'Miscellaneous'}"
+    },
+    {
+        "idx": 60,
+        "sentence": "Individual poems have appeared in The Times Literary Supplement , Poetry ( Chicago ) , Poetry London , The Australian , Antipodes and many other publications .",
+        "label": "{'Antipodes': 'Organization', 'Poetry': 'Organization', 'Poetry London': 'Organization', 'The Times Literary Supplement': 'Organization', 'Chicago': 'Location', 'The Australian': 'Organization'}"
+    },
+    {
+        "idx": 61,
+        "sentence": "Ten years after the initial diagnosis she developed another form of cancer , which she and her doctors fought with equal determination .",
+        "label": "{}"
+    },
+    {
+        "idx": 62,
+        "sentence": "Fearing a lawsuit by pro-life activists , they convened a court hearing at the hospital and obtained separate counsels for Carder , her fetus , and the hospital .",
+        "label": "{'Carder': 'Person'}"
+    },
+    {
+        "idx": 63,
+        "sentence": "Obstetricians at the hospital initially refused to carry out the procedure , but eventually one reluctantly agreed .",
+        "label": "{}"
+    },
+    {
+        "idx": 64,
+        "sentence": "In the wake of the surgery , Carder 's family and the American Civil Liberties Union 's Reproductive Freedom Project asked the D.C. Court of Appeals to vacate the order and its legal precedent , on grounds that the order had violated Carder 's right to informed consent and her constitutional rights of privacy and bodily integrity .",
+        "label": "{'Reproductive Freedom Project': 'Organization', 'American Civil Liberties Union': 'Organization', 'D.C. Court of Appeals': 'Organization', 'Carder': 'Person'}"
+    },
+    {
+        "idx": 65,
+        "sentence": "With a very diverse background in every type of industry imaginable Angelo began his growth in Miami as a young Actor / Model working many non-union & later union jobs .",
+        "label": "{'Angelo': 'Person', 'Miami': 'Location'}"
+    },
+    {
+        "idx": 66,
+        "sentence": "During this time he was also working in Corporate America for Fortune 500 Corporations leading their marketing departments in companies like AT&T , Wachovia , Carnival Cruise Lines , and many more .",
+        "label": "{'AT&T': 'Organization', 'Fortune': 'Organization', 'Carnival Cruise Lines': 'Organization', 'America': 'Location', 'Wachovia': 'Organization'}"
+    },
+    {
+        "idx": 67,
+        "sentence": "In 2002 , Angelo launched NOK Entertainment to create a company that could market , promote , produce , & create all types of special events at any venue from Miami , South Beach to West Palm Beach , including L.A. , NYC , & Vegas .",
+        "label": "{'South Beach': 'Location', 'West Palm Beach': 'Location', 'L.A.': 'Location', 'NOK Entertainment': 'Organization', 'Angelo': 'Person', 'Miami': 'Location', 'NYC': 'Location', 'Vegas': 'Location'}"
+    },
+    {
+        "idx": 68,
+        "sentence": "Angelo has reached out to corporate America , the young and successful , the trendy , the tourist , the wealthy , the professional , the rich & famous .",
+        "label": "{'America': 'Location', 'Angelo': 'Person'}"
+    },
+    {
+        "idx": 69,
+        "sentence": "Current News : Angelo is working on a book , the date for release is Dec. 2008 . He is also launching several businesses as well as launching several concerts in the Miami Area .",
+        "label": "{'Miami': 'Location', 'Angelo': 'Person'}"
+    },
+    {
+        "idx": 70,
+        "sentence": "Influence rather than position . \"",
+        "label": "{}"
+    },
+    {
+        "idx": 71,
+        "sentence": "It was written by Henrique Lopes de Mendonça ( lyrics ) and Alfredo Keil ( music ) after the nationalist resurgence provoked by the British Ultimatum ( for Portuguese troops to vacate the territory between Angola and Mozambique ) , was adopted as a Republican anthem and , finally , by the new Portuguese Republic in 1910 as the national anthem , replacing \" O Hymno da Carta \" , the last anthem of the Constitutional Monarchy in Portugal .",
+        "label": "{'Henrique Lopes de Mendonça': 'Person', 'Portuguese Republic': 'Location', 'British Ultimatum': 'Miscellaneous', 'Angola': 'Location', 'O Hymno da Carta': 'Miscellaneous', 'Constitutional Monarchy': 'Organization', 'Alfredo Keil': 'Person', 'Mozambique': 'Location', 'Portugal': 'Location', 'Republican': 'Organization', 'Portuguese': 'Miscellaneous'}"
+    },
+    {
+        "idx": 72,
+        "sentence": "On January 31 , 1891 , a republican revolution broke out in the northern city of Porto and \" A Portuguesa \" was adopted by the rebels as their anthem .",
+        "label": "{'A Portuguesa': 'Miscellaneous', 'Porto': 'Location'}"
+    },
+    {
+        "idx": 73,
+        "sentence": "The fifth line of the chorus : \" Contra os canhões marchar , marchar \" ( Against the cannons march , march ! ) is an alteration of the original \" Contra os bretões marchar , marchar \" ( Against the Britos march , march ! ) , a reference to the Pink Map .",
+        "label": "{'Britos': 'Miscellaneous'}"
+    },
+    {
+        "idx": 74,
+        "sentence": "After World War II , it was changed to Veterans Day in the United States and to Remembrance Day in the British Commonwealth of Nations .",
+        "label": "{'Remembrance Day': 'Miscellaneous', 'United States': 'Location', 'World War II': 'Miscellaneous', 'British Commonwealth of Nations': 'Organization', 'Veterans Day': 'Miscellaneous'}"
+    },
+    {
+        "idx": 75,
+        "sentence": "November 11th 2008 will be the 90th anniversary of Armistice Day .",
+        "label": "{'Armistice Day': 'Miscellaneous'}"
+    },
+    {
+        "idx": 76,
+        "sentence": "The ISAP , ILPAP and ETHEL companies belong to the public company OASA ( Organismos Astikon Syngoinonion Athinon / Athens Urban Transport Organisation / Οργανισμός Αστικών Συγκοινωνιών Αθηνών . The AMEL and Tram companies belong to Attiko Metro ( Αττικό Μετρό Α.Ε. in Greek ) , a company that is currently wholly owned by the Greek government .",
+        "label": "{'Greek government': 'Organization', 'ILPAP': 'Organization', 'Attiko Metro': 'Organization', 'Athens Urban Transport Organisation': 'Organization', 'ISAP': 'Organization', 'Tram': 'Organization', 'Greek': 'Miscellaneous', 'ETHEL': 'Organization', 'OASA': 'Organization', 'AMEL': 'Organization', 'Organismos Astikon Syngoinonion Athinon': 'Organization'}"
+    },
+    {
+        "idx": 77,
+        "sentence": "According to the 2001 UK census , Atwick parish had a population of 318 .",
+        "label": "{'Atwick': 'Location', 'UK': 'Location'}"
+    },
+    {
+        "idx": 78,
+        "sentence": "It is not a political party , but rather sees itself as a watchdog against government intervention .",
+        "label": "{}"
+    },
+    {
+        "idx": 79,
+        "sentence": "The League is distinctive for asserting that The Protocols of the Elders of Zion is a genuine Jewish document ( the Encyclopædi Britannica for example describes the Protocols as a \" fraudulent document that served as a pretext and rationale for anti-Semitism in the early 20th century \" ) .",
+        "label": "{'The Protocols of the Elders of Zion': 'Miscellaneous', 'Encyclopædi Britannica': 'Miscellaneous', 'League': 'Organization', 'Jewish': 'Miscellaneous', 'Protocols': 'Miscellaneous'}"
+    },
+    {
+        "idx": 80,
+        "sentence": "Former Western Australian Labor MP , founder of the Australia First Party and later One Nation member Graeme Campbell was associated with the League at the same time as he was a member of One Nation and Australia First .",
+        "label": "{'Graeme Campbell': 'Person', 'Australia First': 'Organization', 'Labor': 'Organization', 'One Nation': 'Organization', 'Western Australian': 'Miscellaneous', 'Australia First Party': 'Organization', 'League': 'Organization'}"
+    },
+    {
+        "idx": 81,
+        "sentence": "In the 1970s and early 1980s , the League attempted to gain control of the National Party of Australia , encouraging members to join the party in sufficient numbers to take control , a tactic known as entryism .",
+        "label": "{'League': 'Organization', 'National Party of Australia': 'Organization'}"
+    },
+    {
+        "idx": 82,
+        "sentence": "Critics have pointed to the past participation of the League in the former World Anti-Communist League alongside dictatorial regimes like that of Augusto Pinochet .",
+        "label": "{'World Anti-Communist League': 'Organization', 'Augusto Pinochet': 'Person', 'League': 'Organization'}"
+    },
+    {
+        "idx": 83,
+        "sentence": "The Ayalon Cave is a large underground limestone cave located near Ramla , Israel .",
+        "label": "{'Ayalon Cave': 'Location', 'Ramla': 'Location', 'Israel': 'Location'}"
+    },
+    {
+        "idx": 84,
+        "sentence": "The cave will remain closed to the public to allow scientific investigation to continue undisturbed .",
+        "label": "{}"
+    },
+    {
+        "idx": 85,
+        "sentence": "Baatsagaan is a sum ( district ) of Bayankhongor Province in southern Mongolia .",
+        "label": "{'Mongolia': 'Location', 'Baatsagaan': 'Location', 'Bayankhongor Province': 'Location'}"
+    },
+    {
+        "idx": 86,
+        "sentence": "The Badminton World Federation ( BWF ) is the international governing body for the sport of badminton .",
+        "label": "{'Badminton World Federation': 'Organization', 'BWF': 'Organization'}"
+    },
+    {
+        "idx": 87,
+        "sentence": "About ten miles from Bandarlapalle the Deccan Plateau ends in a dense forest range , sloping down into the plains of Tamilnadu .",
+        "label": "{'Tamilnadu': 'Location', 'Deccan Plateau': 'Location', 'Bandarlapalle': 'Location'}"
+    },
+    {
+        "idx": 88,
+        "sentence": "However , since the last decade there has lot of developmental work taken place , with good roads , drinking water and schools being built .",
+        "label": "{}"
+    },
+    {
+        "idx": 89,
+        "sentence": "Following its independence , Bangladesh became an independent member of the World Organization of the Scout Movement in 1974 .",
+        "label": "{'World Organization of the Scout Movement': 'Organization', 'Bangladesh': 'Location'}"
+    },
+    {
+        "idx": 90,
+        "sentence": "Membership is open to youth between 6 and 25 years of age , regardless of caste , creed or color .",
+        "label": "{}"
+    },
+    {
+        "idx": 91,
+        "sentence": "5 .",
+        "label": "{}"
+    },
+    {
+        "idx": 92,
+        "sentence": "In addition , there are American Boy Scouts in Dhaka , linked to the Direct Service branch of the Boy Scouts of America , which supports units around the world .",
+        "label": "{'Boy Scouts of America': 'Organization', 'Dhaka': 'Location', 'American Boy Scouts': 'Organization'}"
+    },
+    {
+        "idx": 93,
+        "sentence": "Li Shimin led a siege on the city of Luoyang , head of the self-declared emperor Wang Shichong , who solicited help from Dou Jiande from the east .",
+        "label": "{'Wang Shichong': 'Person', 'Luoyang': 'Location', 'Li Shimin': 'Person', 'Dou Jiande': 'Person'}"
+    },
+    {
+        "idx": 94,
+        "sentence": "The French Voulet-Chanoine Mission , led by the captains Paul Voulet and Julien Chanoine , had been dispatched in 1898 to Africa by the French government with the mission to conquer the territories between the Niger River and Lake Chad and join in uniting French territories in West Africa .",
+        "label": "{'French': 'Miscellaneous', 'Voulet-Chanoine Mission': 'Organization', 'Paul Voulet': 'Person', 'West Africa': 'Location', 'Lake Chad': 'Location', 'Julien Chanoine': 'Person', 'French government': 'Organization', 'Niger River': 'Location', 'Africa': 'Location'}"
+    },
+    {
+        "idx": 95,
+        "sentence": "The French found the enemy assembled on the field , while women and children had already retired themselves in a small thick and almost impenetrable bush where the Azna defended themselves when facing a superior enemy .",
+        "label": "{'Azna': 'Miscellaneous', 'French': 'Miscellaneous'}"
+    },
+    {
+        "idx": 96,
+        "sentence": "The Battle of Vilcapugio was fought on October 1 , 1813 during the Campaign of Alto Peru in the Argentine War of Independence , where the pro-independence forces led by General Manuel Belgrano were defeated by the pro-Spanish Realists , led by Joaquin de la Pazuela .",
+        "label": "{'Campaign of Alto Peru': 'Miscellaneous', 'Argentine War of Independence': 'Miscellaneous', 'Manuel Belgrano': 'Person', 'Joaquin de la Pazuela': 'Person', 'Battle of Vilcapugio': 'Miscellaneous', 'pro-Spanish Realists': 'Miscellaneous'}"
+    },
+    {
+        "idx": 97,
+        "sentence": "At the end of September 1813 , most of Belgrano 's army arrived in the prairie of Vilcapugio , which was a plateau surrounded by tall mountains to the north of Potosí .",
+        "label": "{'Potosí': 'Location', 'Belgrano': 'Person', 'Vilcapugio': 'Location'}"
+    },
+    {
+        "idx": 98,
+        "sentence": "Belgrano and Eustaquio Díaz Vélez had decided that Vel would be the one to go to Potosí to reunite with the dispersed troops .",
+        "label": "{'Vel': 'Person', 'Eustaquio Díaz Vélez': 'Person', 'Potosí': 'Location', 'Belgrano': 'Person'}"
+    },
+    {
+        "idx": 99,
+        "sentence": "BayCon is a large convention topping two thousand attendees over the last several years .",
+        "label": "{'BayCon': 'Miscellaneous'}"
+    },
+    {
+        "idx": 100,
+        "sentence": "BayCon ' 83 was also held over Thanksgiving weekend .",
+        "label": "{'BayCon': 'Miscellaneous', 'Thanksgiving': 'Miscellaneous'}"
+    },
+    {
+        "idx": 101,
+        "sentence": "The BEL20 is the benchmark stock market index of Euronext Brussels .",
+        "label": "{'Euronext Brussels': 'Organization'}"
+    },
+    {
+        "idx": 102,
+        "sentence": "In addition , a candidate for inclusion must possess a free float market capitalisation ( in Euros ) of at least 300000 times the price of the index on the last trading day of December .",
+        "label": "{}"
+    },
+    {
+        "idx": 103,
+        "sentence": "He began his career as a short film comedy director and gradually moved into feature film directing and production later in his career .",
+        "label": "{}"
+    },
+    {
+        "idx": 104,
+        "sentence": "He played professionally for the Rochester Jeffersons and Buffalo Bisons",
+        "label": "{'Buffalo Bisons': 'Organization', 'Rochester Jeffersons': 'Organization'}"
+    },
+    {
+        "idx": 105,
+        "sentence": "Ben now also helps run Movement Bodyboarding Magazine .",
+        "label": "{'Movement Bodyboarding Magazine': 'Organization', 'Ben': 'Person'}"
+    },
+    {
+        "idx": 106,
+        "sentence": "At 28 , he sensed his chances of ever winning a world title receding with each hand raised in opposition : he had fancied his chances at the infamous Island .",
+        "label": "{'Island': 'Location'}"
+    },
+    {
+        "idx": 107,
+        "sentence": "The irony of that frigid afternoon in Cronulla did n't dawn on Player as he paddled out in flawless , two-metre waves for the final of the Pipeline Pro ; he was too preoccupied with matters at hand .",
+        "label": "{'Player': 'Person', 'Pipeline Pro': 'Miscellaneous', 'Cronulla': 'Location'}"
+    },
+    {
+        "idx": 108,
+        "sentence": "Then , further controversy .",
+        "label": "{}"
+    },
+    {
+        "idx": 109,
+        "sentence": "No such contest debacles this year , which means Ben Player is more ambitious than ever to win it clean .",
+        "label": "{'Ben Player': 'Person'}"
+    },
+    {
+        "idx": 110,
+        "sentence": "That wiry frame has filled out during the 13 seasons he 's spent hassling for waves amongst the hungry pack of board riders who converge on the famous stretch of sand every northern winter .",
+        "label": "{}"
+    },
+    {
+        "idx": 111,
+        "sentence": "Player won Australian titles as a cadet ( under-16s ) and as a pro in 2000 , part of the new generation that reshaped bodyboarding in Australia .",
+        "label": "{'Australia': 'Location', 'Australian': 'Miscellaneous', 'Player': 'Person'}"
+    },
+    {
+        "idx": 112,
+        "sentence": "Basically I lost $85,000 for that year and $35,000 that was owed to me , \" says Player .",
+        "label": "{'Player': 'Person'}"
+    },
+    {
+        "idx": 113,
+        "sentence": "\" It 's still growing , but with the money remaining in bodyboarding . \"",
+        "label": "{}"
+    },
+    {
+        "idx": 114,
+        "sentence": "For the first two years Player sold advertising for the mag , which was named Movement .",
+        "label": "{'Player': 'Person', 'Movement': 'Organization'}"
+    },
+    {
+        "idx": 115,
+        "sentence": "Bodyboarders now seek out the sort of aquatic slabs breaking in shallow water that stand-up surfers leave alone .",
+        "label": "{}"
+    },
+    {
+        "idx": 116,
+        "sentence": "\" I think surfing actually embraces bodyboarding much more now , because it 's not really seen as competition -- we 're something totally different , \" he says .",
+        "label": "{}"
+    },
+    {
+        "idx": 117,
+        "sentence": "Portugal is the exception on the tour , a playful beach break , but it retains its status on the tour due to the carnival atmosphere that the sport attracts in Europe , as well as in South America .",
+        "label": "{'Europe': 'Location', 'Portugal': 'Location', 'South America': 'Location'}"
+    },
+    {
+        "idx": 118,
+        "sentence": "Kopački Rit , situated at the confluence of the Drava and the Danube , the unique preserved wetland area in this part of Europe is not far from Mece .",
+        "label": "{'Mece': 'Location', 'Kopački Rit': 'Location', 'Drava': 'Location', 'Europe': 'Location', 'Danube': 'Location'}"
+    },
+    {
+        "idx": 119,
+        "sentence": "The name Bilka is believed by many to be a mix of the German Billiges Kaufhaus ( low-price department store ) , which its founder , Herman Salling had encountered during his business trips to West Germany .",
+        "label": "{'Herman Salling': 'Person', 'Bilka': 'Organization', 'West Germany': 'Location', 'German': 'Miscellaneous'}"
+    },
+    {
+        "idx": 120,
+        "sentence": "Attended James High School , in Houston .",
+        "label": "{'James High School': 'Organization', 'Houston': 'Location'}"
+    },
+    {
+        "idx": 121,
+        "sentence": "Atessis was a member of teams which set school record 30-game winning streak that currently stands as the twelfth-longest in NCAA history and was a three-year letterman and three year starter at left defensive end .",
+        "label": "{'NCAA': 'Organization', 'Atessis': 'Person'}"
+    },
+    {
+        "idx": 122,
+        "sentence": "Played in the Senior Bowl in Mobile , Alabama , in January 1971 .",
+        "label": "{'Senior Bowl': 'Miscellaneous', 'Mobile': 'Location', 'Alabama': 'Location'}"
+    },
+    {
+        "idx": 123,
+        "sentence": "In 2005 was named to the All-Time University of Texas team by the Austin American-Statesman and was named to the Red River Rivalry All-time team by the Fort Worth Star-Telegram , also in 2005 .",
+        "label": "{'Fort Worth Star-Telegram': 'Organization', 'Austin American-Statesman': 'Organization', 'Red River Rivalry All-time team': 'Organization', 'University of Texas': 'Organization'}"
+    },
+    {
+        "idx": 124,
+        "sentence": "Asked to drop weight and move to outside linebacker , a position he had never played .",
+        "label": "{}"
+    },
+    {
+        "idx": 125,
+        "sentence": "Frequently injured , he was on track to shatter the league record for scoring in 1944 when another injury ended his season two points short .",
+        "label": "{'1944': 'Person'}"
+    },
+    {
+        "idx": 126,
+        "sentence": "In 1998 , he was ranked number 53 on The Hockey News list of the 100 Greatest Hockey Players .",
+        "label": "{'The Hockey News': 'Organization'}"
+    },
+    {
+        "idx": 127,
+        "sentence": "Brampton City Council is the governing body for the City of Brampton , Ontario .",
+        "label": "{'Ontario': 'Location', 'Brampton City Council': 'Organization', 'City of Brampton': 'Location'}"
+    },
+    {
+        "idx": 128,
+        "sentence": "The municipality is a part of the administrative municipality of Wörlitze Winkel , which has a seat in the city of Oranienbau .",
+        "label": "{'Wörlitze Winkel': 'Location', 'Oranienbau': 'Location'}"
+    },
+    {
+        "idx": 129,
+        "sentence": "Hinkley Locomotive Works modified their 2-foot gauge Forney design to run boiler first with an extended frame similar to that installed on Sandy River Railroad # 1 following a wreck in early 1882 .",
+        "label": "{'Sandy River Railroad': 'Location', 'Hinkley Locomotive Works': 'Organization'}"
+    },
+    {
+        "idx": 130,
+        "sentence": "Original Hinkley locomotives # 1-2 were replaced by # 5-6 of an improved design with pilot wheels .",
+        "label": "{'Hinkley': 'Organization'}"
+    },
+    {
+        "idx": 131,
+        "sentence": "The first consisted of baggage # 10 , RPO # 25 , and one or two coaches .",
+        "label": "{}"
+    },
+    {
+        "idx": 132,
+        "sentence": "Locomotive # 8 was the heaviest locomotive on any 2-foot gauge railway in Maine .",
+        "label": "{'Maine': 'Location'}"
+    },
+    {
+        "idx": 133,
+        "sentence": "Milepost 0 : Bridgton Junction - Interchange yard with the Portland and Ogdensburg ( later Maine Central Railroad Mountain Division . )",
+        "label": "{'Bridgton Junction': 'Location', 'Portland and Ogdensburg': 'Location', 'Maine Central Railroad Mountain Division': 'Location'}"
+    },
+    {
+        "idx": 134,
+        "sentence": "Milepost 1 : granite masonry arch over Hancock Brook .",
+        "label": "{'Hancock Brook': 'Location'}"
+    },
+    {
+        "idx": 135,
+        "sentence": "Milepost 4.4 : Twin Lake - small flag stop passenger shelter .",
+        "label": "{'Twin Lake': 'Location'}"
+    },
+    {
+        "idx": 136,
+        "sentence": "Milepost 9.0 : Perley 's Mills - southbound spur with small flag stop passenger shelter .",
+        "label": "{\"Perley 's Mills\": 'Location'}"
+    },
+    {
+        "idx": 137,
+        "sentence": "Milepost 15.8 : Bridgton - had the largest population of any village served by the Maine 2-foot gauge railroads .",
+        "label": "{'Maine': 'Location', 'Bridgton': 'Location'}"
+    },
+    {
+        "idx": 138,
+        "sentence": "Milepost 20.7 : Harrison - agent 's station with a passing siding and several southbound spurs serving a freight house , a cannery , a grain store , a 2-track car shed , and a turntable with a single-stall enginehouse .",
+        "label": "{'Harrison': 'Location'}"
+    },
+    {
+        "idx": 139,
+        "sentence": "The car was sold for use as a restaurant in 1935 .",
+        "label": "{}"
+    },
+    {
+        "idx": 140,
+        "sentence": "Cars # 22 and # 21/14 were the only 2-foot gauge tank cars in Maine .",
+        "label": "{'Maine': 'Location'}"
+    },
+    {
+        "idx": 141,
+        "sentence": "It is also a partner in the Masters of Digital Media program run by Great Northern Way Campus Ltd , and rents training space there with several other institutions .",
+        "label": "{'Great Northern Way Campus Ltd': 'Organization'}"
+    },
+    {
+        "idx": 142,
+        "sentence": "His manager was future Hall of Famer Bill McKechnie .",
+        "label": "{'Bill McKechnie': 'Person'}"
+    },
+    {
+        "idx": 143,
+        "sentence": "Stan believes that this will destroy his chance for a promotion .",
+        "label": "{'Stan': 'Person'}"
+    },
+    {
+        "idx": 144,
+        "sentence": "At a diner , Bullock calls Hayley a slut , which offends Stan , and the two CIA men get into a lengthy fist-fight ( with some audio-commentary from Klaus ) .",
+        "label": "{'Stan': 'Person', 'Hayley': 'Person', 'Bullock': 'Person', 'CIA': 'Organization', 'Klaus': 'Person'}"
+    },
+    {
+        "idx": 145,
+        "sentence": "A parcel just south of it was named Lincoln Park the same year .",
+        "label": "{'Lincoln Park': 'Location'}"
+    },
+    {
+        "idx": 146,
+        "sentence": "Rebuilding of the reservoir to convert it from open-air to covered started in April 2003 and lasted through summer 2005 .",
+        "label": "{}"
+    },
+    {
+        "idx": 147,
+        "sentence": "In 1972 , Caloi introduced the Caloi 10 , which became a cultural landmark and established the name Caloi in Brazil .",
+        "label": "{'Caloi': 'Organization', 'Caloi 10': 'Miscellaneous', 'Brazil': 'Location'}"
+    },
+    {
+        "idx": 148,
+        "sentence": "Guido died in 1955 , and the company was directed by his son Bruno Caloi until 1999 .",
+        "label": "{'Bruno Caloi': 'Person', 'Guido': 'Person'}"
+    },
+    {
+        "idx": 149,
+        "sentence": "This tracks comes off their 1998 album , Electro-Shock Blues .",
+        "label": "{'Electro-Shock Blues': 'Miscellaneous'}"
+    },
+    {
+        "idx": 150,
+        "sentence": "Savage lives in Saskatchewan .",
+        "label": "{'Saskatchewan': 'Location', 'Savage': 'Person'}"
+    },
+    {
+        "idx": 151,
+        "sentence": "\" She insists on ' a clean sound ' , has banned backing vocals and says her pet hate is ' over-singing ' . \"",
+        "label": "{}"
+    },
+    {
+        "idx": 152,
+        "sentence": "Because of the power of the drugs the handlers then have to move quickly to secure the animal for transport , monitor its vital signs , protect its eyes and ears , and then inject reversing drugs when needed .",
+        "label": "{}"
+    },
+    {
+        "idx": 153,
+        "sentence": "He began playing in 2001 and has won tournaments in Walsall , Melbourne , Luton and London ( where he won the £500 no limit hold'em event of the 200 British Open , defeating Lucy Rokach in the heads-up confrontation .",
+        "label": "{'Walsall': 'Location', 'British Open': 'Miscellaneous', 'Luton': 'Location', 'Lucy Rokach': 'Person', 'Melbourne': 'Location', 'London': 'Location', '200': 'Person'}"
+    },
+    {
+        "idx": 154,
+        "sentence": "Citrone eventually served approximately twelve months for the offence and was ordered to pay some £370,000 as part of a Confiscation Order ordered in favour of the Crown .",
+        "label": "{'Crown': 'Organization', 'Citrone': 'Person'}"
+    },
+    {
+        "idx": 155,
+        "sentence": "As of 2007 his total live tournament winnings exceed $670,000 .",
+        "label": "{}"
+    },
+    {
+        "idx": 156,
+        "sentence": "Carmen Cavallaro ( May 6 , 1913 -- October 12 , 1989 ) was an American pianist born in New York .",
+        "label": "{'American': 'Miscellaneous', 'New York': 'Location', 'Carmen Cavallaro': 'Person'}"
+    },
+    {
+        "idx": 157,
+        "sentence": "After four years he switched to a series of other big bands , including Rudy Vallee 's in 1937 .",
+        "label": "{'Rudy Vallee': 'Person'}"
+    },
+    {
+        "idx": 158,
+        "sentence": "Cavallaro developed a piano style of glittering and rippling arpeggios to augment his melody , which was often arranged in thick and lush triple and quadruple octave chords .",
+        "label": "{'Cavallaro': 'Person'}"
+    },
+    {
+        "idx": 159,
+        "sentence": "His most celebrated film achievement was playing the piano music for actor Tyrone Power 's hands to mime , in The Eddy Duchin Story ( 1956 ) .",
+        "label": "{'Tyrone Power': 'Person', 'The Eddy Duchin Story': 'Miscellaneous'}"
+    },
+    {
+        "idx": 160,
+        "sentence": "At the time , his father had bought tickets to a Buddy Rich concert and could not find someone to watch his son , so he took young Carter along to the show .",
+        "label": "{'Buddy Rich': 'Person', 'Carter': 'Person'}"
+    },
+    {
+        "idx": 161,
+        "sentence": "Secrets would perform throughout Virginia , often at Miller's , the bar in Charlottesville where Dave Matthews worked as a bartender .",
+        "label": "{'Dave Matthews': 'Person', 'Charlottesville': 'Location', \"Miller's\": 'Organization', 'Virginia': 'Location'}"
+    },
+    {
+        "idx": 162,
+        "sentence": "With his second wife , Karen , he has two children : a daughter , Nadja Angelique Beauford born October 5th 2001 and a son Marcus Carrington Beauford born in December 2004 .",
+        "label": "{'Karen': 'Person', 'October 5th 2001': 'Person', 'Marcus Carrington Beauford': 'Person', 'Nadja Angelique Beauford': 'Person'}"
+    },
+    {
+        "idx": 163,
+        "sentence": "In 1991 , the mall expanded , adding a food court and three new anchors : Thalhimer's , JC Penney , and Sears , and was renamed Cary Towne Center .",
+        "label": "{'Cary Towne Center': 'Organization', \"Thalhimer's\": 'Organization', 'Sears': 'Organization', 'JC Penney': 'Organization'}"
+    },
+    {
+        "idx": 164,
+        "sentence": "Cable systems in the early 1980s had far more limited channel capacity than they do today ( usually only a few dozen channels in most cities ) .",
+        "label": "{}"
+    },
+    {
+        "idx": 165,
+        "sentence": "Centennial Tower and PlazaCenter are next door .",
+        "label": "{'PlazaCenter': 'Organization', 'Centennial Tower': 'Organization'}"
+    },
+    {
+        "idx": 166,
+        "sentence": "He played in Single A in 2002 and recorded a 2.26 ERA which ranked him 10th in all of minor league baseball .",
+        "label": "{'Single A': 'Organization'}"
+    },
+    {
+        "idx": 167,
+        "sentence": "On December 12 , 2004 , Gaudin was traded to the Toronto Blue Jays for backup catcher Kevin Cash .",
+        "label": "{'Gaudin': 'Person', 'Toronto Blue Jays': 'Organization', 'Kevin Cash': 'Person'}"
+    },
+    {
+        "idx": 168,
+        "sentence": "In his first season as an Athletic , he posted various career highs and his ERA ( 3.09 ) and opponents batting average were the lowest of his career .",
+        "label": "{'Athletic': 'Organization'}"
+    },
+    {
+        "idx": 169,
+        "sentence": "The language is of the Chamicuro people who number between 10 and 20 .",
+        "label": "{'Chamicuro': 'Miscellaneous'}"
+    },
+    {
+        "idx": 170,
+        "sentence": "Champdor is a commune in the French département of Ai .",
+        "label": "{'Ai': 'Location', 'Champdor': 'Location', 'French': 'Miscellaneous'}"
+    },
+    {
+        "idx": 171,
+        "sentence": "Charan Jeath Singh is a Fiji Indian who has been involved in local Government and national politics in Fiji representing various political organisations .",
+        "label": "{'Charan Jeath Singh': 'Person', 'Indian': 'Miscellaneous', 'Fiji': 'Location'}"
+    },
+    {
+        "idx": 172,
+        "sentence": "In the 2006 general election , he contested the Vanua Levu West Indian Communal Constituency , Fiji ) for the National Alliance Party ( NAPF ) and again lost with only 14% of the votes cast .",
+        "label": "{'NAPF': 'Organization', 'Vanua Levu West Indian': 'Location', 'Fiji': 'Location', 'National Alliance Party': 'Organization'}"
+    },
+    {
+        "idx": 173,
+        "sentence": "After just a year at Coburg he returned to the league and played with North Melbourne , becoming a regular in their side during the 1930s .",
+        "label": "{'Coburg': 'Organization', 'North Melbourne': 'Organization'}"
+    },
+    {
+        "idx": 174,
+        "sentence": "It has been used as a political prison by Germans during the occupation of France from 1940 to 1944 .",
+        "label": "{'Germans': 'Miscellaneous', 'France': 'Location'}"
+    },
+    {
+        "idx": 175,
+        "sentence": "Christopher Bailey is a lecturer of English at the University of Brighton and is an occasional screenwriter for television .",
+        "label": "{'University of Brighton': 'Organization', 'Christopher Bailey': 'Person', 'English': 'Miscellaneous'}"
+    },
+    {
+        "idx": 176,
+        "sentence": "As a result , the two Mara scripts were Bailey 's final broadcast work for both Doctor Who and television in general and he returned to a career in academia .",
+        "label": "{'Doctor Who': 'Miscellaneous', 'Bailey': 'Person'}"
+    },
+    {
+        "idx": 177,
+        "sentence": "After a twenty minute stand-off he aimed the pistol at Lieutenant Michael Weippert , who responded by opening fire .",
+        "label": "{'Michael Weippert': 'Person'}"
+    },
+    {
+        "idx": 178,
+        "sentence": "The Orlando Sentinel reported that Ralph Penley was not told of events until after his son was shot .",
+        "label": "{'Ralph Penley': 'Person', 'Orlando Sentinel': 'Organization'}"
+    },
+    {
+        "idx": 179,
+        "sentence": "It remained on the F1 calendar for 30 out of the next 34 years .",
+        "label": "{'F1': 'Organization'}"
+    },
+    {
+        "idx": 180,
+        "sentence": "The most famous corner in the circuit is the Tarzanbocht ( Tarzan corner ) which provides excellent overtaking opportunities .",
+        "label": "{'Tarzan corner': 'Location', 'Tarzanbocht': 'Location'}"
+    },
+    {
+        "idx": 181,
+        "sentence": "This was later converted to NASCAR 4 , NASCAR 2002 , 2003 and other simulations using a converter from website ' The Pits ' .",
+        "label": "{'NASCAR 4': 'Miscellaneous', 'NASCAR 2002': 'Miscellaneous', 'The Pits': 'Miscellaneous'}"
+    },
+    {
+        "idx": 182,
+        "sentence": "Clergoux is a village and commune in the Corrèz département of central Franc .",
+        "label": "{'Franc': 'Location', 'Clergoux': 'Location', 'Corrèz': 'Location'}"
+    },
+    {
+        "idx": 183,
+        "sentence": "Clinical Hospital Mostar ( Croatian Klinička bolnica Mostar ) is the largest hospital in Mostar , Bosnia and Herzegovina .",
+        "label": "{'Mostar': 'Location', 'Clinical Hospital Mostar': 'Organization', 'Croatian': 'Miscellaneous', 'Bosnia and Herzegovina': 'Location'}"
+    },
+    {
+        "idx": 184,
+        "sentence": "The Cold Spring Harbor Laboratory ( CSHL ) is a private , non-profit institution with research programs focusing on cancer , neurobiology , plant genetics , genomics and bioinformatics .",
+        "label": "{'CSHL': 'Organization', 'Cold Spring Harbor Laboratory': 'Organization'}"
+    },
+    {
+        "idx": 185,
+        "sentence": "The Carnegie Institution Department of Genetics scientists at Cold Spring Harbor made innumerable contributions to the sciences of genetics , medicine , and the then-infant science of molecular biology , and in 1962 its facilities merged with those of The Brooklyn Institute 's Biological Laboratory to create what is known today as Cold Spring Harbor Laboratory .",
+        "label": "{'Cold Spring Harbor Laboratory': 'Organization', 'Carnegie Institution Department of Genetics': 'Organization', 'Cold Spring Harbor': 'Organization', 'The Brooklyn Institute': 'Organization'}"
+    },
+    {
+        "idx": 186,
+        "sentence": "Currently , cancer biologist Bruce Stillman serves as laboratory President .",
+        "label": "{'Bruce Stillman': 'Person'}"
+    },
+    {
+        "idx": 187,
+        "sentence": "Aside from its scientific mission , the laboratory is host to world-class scientific conferences on a variety of topics .",
+        "label": "{}"
+    },
+    {
+        "idx": 188,
+        "sentence": "Salvador Luria and Max Delbrüc founded the Phage Course in 1948 , a course that trained many of the leaders of the new field of molecular genetics .",
+        "label": "{'Salvador Luria': 'Person', 'Max Delbrüc': 'Person'}"
+    },
+    {
+        "idx": 189,
+        "sentence": "It is part of the Coleman Federal Correctional Complex .",
+        "label": "{'Coleman Federal Correctional Complex': 'Location'}"
+    },
+    {
+        "idx": 190,
+        "sentence": "Held since 1990 , the tournament is played on outdoor hardcourts .",
+        "label": "{}"
+    },
+    {
+        "idx": 191,
+        "sentence": "Later it became a 6/40 game .",
+        "label": "{}"
+    },
+    {
+        "idx": 192,
+        "sentence": "Top-prize winners choose lump sum or annuity within 60 days of claiming the jackpot .",
+        "label": "{}"
+    },
+    {
+        "idx": 193,
+        "sentence": "A Classic Lotto jackpot of $3.5 million ( annuity ) on a ticket bought in February 2006 went unclaimed .",
+        "label": "{'Classic Lotto': 'Miscellaneous'}"
+    },
+    {
+        "idx": 194,
+        "sentence": "It is currently served by the South West Trains , Southern , and First Great Western train operating companies .",
+        "label": "{'First Great Western': 'Organization', 'South West Trains': 'Organization', 'Southern': 'Organization'}"
+    },
+    {
+        "idx": 195,
+        "sentence": "Crazyhead are an English punk rock / garage rock band from Leicester .",
+        "label": "{'Crazyhead': 'Organization', 'English': 'Miscellaneous', 'Leicester': 'Location'}"
+    },
+    {
+        "idx": 196,
+        "sentence": "Their second single \" Baby Turpentine \" reached number 4 in the Indie Chart .",
+        "label": "{'Baby Turpentine': 'Miscellaneous', 'Indie Chart': 'Miscellaneous'}"
+    },
+    {
+        "idx": 197,
+        "sentence": "Later that year they played at the Namibian Independence Day concert to an audience of 50,000 .",
+        "label": "{'Namibian Independence Day concert': 'Miscellaneous'}"
+    },
+    {
+        "idx": 198,
+        "sentence": "They started recording material for a new album , but the departure of Anderson to work abroad meant the end of the band .",
+        "label": "{'Anderson': 'Person'}"
+    },
+    {
+        "idx": 199,
+        "sentence": "The partnership went public in 1994 , trading under the stock symbol CRO on the New York Stock Exchange .",
+        "label": "{'New York Stock Exchange': 'Organization'}"
+    },
+    {
+        "idx": 200,
+        "sentence": "He was born in Humberstone Township in 1825 , the son of John Near , and grew up there .",
+        "label": "{'John Near': 'Person', 'Humberstone Township': 'Location'}"
+    },
+    {
+        "idx": 201,
+        "sentence": "Prodan won five consecutive league titles with Steaua before moving to play in Spain .",
+        "label": "{'Spain': 'Location', 'Steaua': 'Organization', 'Prodan': 'Person'}"
+    },
+    {
+        "idx": 202,
+        "sentence": "He specialises in algebra and group theory .",
+        "label": "{}"
+    },
+    {
+        "idx": 203,
+        "sentence": "It was released in 2003 on Aftermath Records .",
+        "label": "{'Aftermath Records': 'Organization'}"
+    },
+    {
+        "idx": 204,
+        "sentence": "The band 's music has been described as electro / synthpop with a slightly sombre overtone and introverted lyrical sensibility .",
+        "label": "{}"
+    },
+    {
+        "idx": 205,
+        "sentence": "The band were recently selected to play on the 6th series of the acclaimed RTÉ music show Other Voices .",
+        "label": "{'RTÉ': 'Organization', 'Other Voices': 'Miscellaneous'}"
+    },
+    {
+        "idx": 206,
+        "sentence": "The start was given in 1990 with the first Cyrillic fonts in the PostScript format , the first Laser printer with in - built Cyrillic fonts in 1991 and the first professional program for complete Cyrillic support under MS Windows - the Flex Type - in 1992 .",
+        "label": "{'Cyrillic': 'Miscellaneous', 'MS': 'Organization', 'Windows': 'Miscellaneous', 'Flex Type': 'Miscellaneous', 'PostScript': 'Miscellaneous'}"
+    },
+    {
+        "idx": 207,
+        "sentence": "In only a few years - and 100 000 devices sold in 11 countries around the World - Datecs became the best known brand of electronic cash registers with fiscal memory in Central and Eastern Europe .",
+        "label": "{'Central and Eastern Europe': 'Location', 'Datecs': 'Organization'}"
+    },
+    {
+        "idx": 208,
+        "sentence": "Snoke received his PhD in physics from the University of Illinois at Urbana-Champaign .",
+        "label": "{'Urbana-Champaign': 'Location', 'University of Illinois': 'Organization', 'Snoke': 'Person'}"
+    },
+    {
+        "idx": 209,
+        "sentence": "In 2004 co-authored an article , with Michael Behe , a senior fellow of the Discovery Institute 's Center for Science and Culture , in the scientific journal Protein Science , which received widespread criticism .",
+        "label": "{'Center for Science and Culture': 'Organization', 'Discovery Institute': 'Organization', 'Protein Science': 'Organization', 'Michael Behe': 'Person'}"
+    },
+    {
+        "idx": 210,
+        "sentence": "In his ruling , Judge Jones noted that \" A review of the article indicates that it does not mention either irreducible complexity or ID .",
+        "label": "{'Jones': 'Person'}"
+    },
+    {
+        "idx": 211,
+        "sentence": "Davis Gym could hold around 1,100 people .",
+        "label": "{'Davis Gym': 'Location'}"
+    },
+    {
+        "idx": 212,
+        "sentence": "In return Magedson filed a lawsuit under RICO .",
+        "label": "{'RICO': 'Miscellaneous', 'Magedson': 'Person'}"
+    },
+    {
+        "idx": 213,
+        "sentence": "A descendant of farmer immigrants from Bentheim , Germany , Langejans was born and raised in Holland , Michigan , where his luthier shop keeps him busy building guitars for such notable musicians as Thom Bresh ( Merle Travis 's son ) and Jars of Clay .",
+        "label": "{'Thom Bresh': 'Person', 'Germany': 'Location', 'Merle Travis': 'Person', 'Langejans': 'Person', 'Holland': 'Location', 'Jars of Clay': 'Organization', 'Bentheim': 'Location', 'Michigan': 'Location'}"
+    },
+    {
+        "idx": 214,
+        "sentence": "He has made over 1200 guitars as of 2006 , many of them custom-made-to-order , putting Langejans guitars in the hands of numerous stars from all genre of music .",
+        "label": "{'Langejans': 'Person'}"
+    },
+    {
+        "idx": 215,
+        "sentence": "The standard production time is generally one year .",
+        "label": "{}"
+    },
+    {
+        "idx": 216,
+        "sentence": "I Dewa Gede Budjana or Dewa Budjana ( born August 30 , 1963 in Waikabubak ) is an Indonesian guitarist , songwriter and composer .",
+        "label": "{'Waikabubak': 'Location', 'Dewa Budjana': 'Person', 'I Dewa Gede Budjana': 'Person', 'Indonesian': 'Miscellaneous'}"
+    },
+    {
+        "idx": 217,
+        "sentence": "Budjana 's passion and talent in music , especially guitar , has been very dominant since he was in an elementary school in Klungkung , Bali .",
+        "label": "{'Klungkung': 'Location', 'Bali': 'Location', 'Budjana': 'Person'}"
+    },
+    {
+        "idx": 218,
+        "sentence": "In 1976 , when he was thirteen , Budjana 's name started to be seen in the music world in Surabaya .",
+        "label": "{'Budjana': 'Person', 'Surabaya': 'Location'}"
+    },
+    {
+        "idx": 219,
+        "sentence": "One year after that , Budjana decided to fly to Jakarta in order to expand his music career .",
+        "label": "{'Budjana': 'Person', 'Jakarta': 'Location'}"
+    },
+    {
+        "idx": 220,
+        "sentence": "His current band , Gigi , was formed in 1994 with Baron ( guitar ) , Thomas ( bass ) , Armand ( vocal ) and Ronald ( drum ) .",
+        "label": "{'Ronald': 'Person', 'Gigi': 'Organization', 'Armand': 'Person', 'Baron': 'Person', 'Thomas': 'Person'}"
+    },
+    {
+        "idx": 221,
+        "sentence": "Spain allied with France during the Seven Years ' War against Great Britain .",
+        "label": "{'Great Britain': 'Location', 'France': 'Location', 'Spain': 'Location', \"Seven Years ' War\": 'Miscellaneous'}"
+    },
+    {
+        "idx": 222,
+        "sentence": "The British force never materialized .",
+        "label": "{'British': 'Miscellaneous'}"
+    },
+    {
+        "idx": 223,
+        "sentence": "She fled again to Abra , where she was captured .",
+        "label": "{'Abra': 'Location'}"
+    },
+    {
+        "idx": 224,
+        "sentence": "Digilogue is a music album of recordings which became the twentieth commercial release by the British avant-garde music group : zoviet*france : .",
+        "label": "{'British': 'Miscellaneous', 'zoviet*france': 'Organization', 'Digilogue': 'Miscellaneous'}"
+    },
+    {
+        "idx": 225,
+        "sentence": "digilogue was recorded using a mixture of failing analogue equipment and high-end digital equipment , and monitored in our studio exclusively on damaged hi-fi speakers .",
+        "label": "{}"
+    },
+    {
+        "idx": 226,
+        "sentence": "1996 edition",
+        "label": "{}"
+    },
+    {
+        "idx": 227,
+        "sentence": "The island of Divar ( Divar-derived from the word Dipavati or ' small Island ' in Konkani ) lies in the state of Goa , India .",
+        "label": "{'Goa': 'Location', 'Konkani': 'Miscellaneous', 'Divar': 'Location', 'India': 'Location'}"
+    },
+    {
+        "idx": 228,
+        "sentence": "Though in a manner equally typical of modern Goa , of late the paddy fields lie fallow and overrun with weeds .",
+        "label": "{'Goa': 'Location'}"
+    },
+    {
+        "idx": 229,
+        "sentence": "It was destroyed by the sultan of the Deccan in the middle of the 14th century and reconstructed at the same locality by Madhav Mantri of Vijaynagar at the close of the same century .",
+        "label": "{'Vijaynagar': 'Location', 'Madhav Mantri': 'Person', 'Deccan': 'Location'}"
+    },
+    {
+        "idx": 230,
+        "sentence": "And on the foundations of the same temple a prayer and catechism house was constructed in 1563 , which was later transformed into the chapel of Our Lady of Cande laria . \"",
+        "label": "{'Our Lady of Cande laria': 'Person'}"
+    },
+    {
+        "idx": 231,
+        "sentence": "Bonderam Festival : The festival is a memoir to the dispute and the fury of the Villagers over the Portuguese system of resolving the disputes .",
+        "label": "{'Bonderam Festival': 'Miscellaneous', 'Portuguese': 'Miscellaneous'}"
+    },
+    {
+        "idx": 232,
+        "sentence": "Each section of the village has a float at the parade .",
+        "label": "{}"
+    },
+    {
+        "idx": 233,
+        "sentence": "Unfortunately though , every time the bell was struck , it shattered the windows of the church and the houses in the vicinity , so a deal was struck and the bell was exchanged with that of the Se Cathedral .",
+        "label": "{'Se Cathedral': 'Organization'}"
+    },
+    {
+        "idx": 234,
+        "sentence": "Their son , Philipp Veit , would later become part of a circle of German Christian painters called \" the Nazarenes , \" who influenced the later English painters in the Pre-Raphaelite Brotherhood .",
+        "label": "{'German Christian': 'Miscellaneous', 'the Nazarenes': 'Organization', 'Pre-Raphaelite Brotherhood': 'Organization', 'English': 'Miscellaneous', 'Philipp Veit': 'Person'}"
+    },
+    {
+        "idx": 235,
+        "sentence": "They lived in Paris from 1802 until 1804 , and after her divorce they married as Protestants .",
+        "label": "{'Protestants': 'Miscellaneous', 'Paris': 'Location'}"
+    },
+    {
+        "idx": 236,
+        "sentence": "There , she lived with her son Philipp ( also a convert to a medieval style of Catholicism ) until her death in 1839 .",
+        "label": "{'Philipp': 'Person', 'Catholicism': 'Miscellaneous'}"
+    },
+    {
+        "idx": 237,
+        "sentence": "Her nephew was Felix Mendelssohn , the composer , who with his sister , Fanny , were considered nearly the equals of the Mozarts as child prodigies .",
+        "label": "{'Mozarts': 'Person', 'Felix Mendelssohn': 'Person', 'Fanny': 'Person'}"
+    },
+    {
+        "idx": 238,
+        "sentence": "For some Jews , she may be a less than admirable figure as well , having left her Jewish husband , violated her divorce settlement , and converted first to Protestantism ( which was favorable towards Judaism ) , and finally to Catholicism ( which was not ) .",
+        "label": "{'Judaism': 'Miscellaneous', 'Jews': 'Miscellaneous', 'Protestantism': 'Miscellaneous', 'Jewish': 'Miscellaneous', 'Catholicism': 'Miscellaneous'}"
+    },
+    {
+        "idx": 239,
+        "sentence": "[ 1 ] In older literature and on her gravestone one finds the date 1763 , but this is the birthyear of her older sister Sara ( May 23rd 1763-April 15 1764 ) whose untimely death was one of the reasons Moses Mendelssohn wrote the Phaedon .",
+        "label": "{'Moses Mendelssohn': 'Person', 'Sara': 'Person', 'Phaedon': 'Miscellaneous'}"
+    },
+    {
+        "idx": 240,
+        "sentence": "Stylistically , the tracks range from industrial metal to goth and electronica .",
+        "label": "{}"
+    },
+    {
+        "idx": 241,
+        "sentence": "Six foot , three inches tall and 215 pounds in his prime , Bobick was part of a boxing family and grew up with the sport in the 1960s .",
+        "label": "{'Bobick': 'Person'}"
+    },
+    {
+        "idx": 242,
+        "sentence": "Bobick trained with and was managed by heavyweight legend Joe Frazier .",
+        "label": "{'Joe Frazier': 'Person', 'Bobick': 'Person'}"
+    },
+    {
+        "idx": 243,
+        "sentence": "Knockout wins that year included Ted Gullick and future champion Mike Weaver .",
+        "label": "{'Mike Weaver': 'Person', 'Ted Gullick': 'Person'}"
+    },
+    {
+        "idx": 244,
+        "sentence": "He was now being dodged by some , but a win over Randy Neumann proved he could not be ignored .",
+        "label": "{'Randy Neumann': 'Person'}"
+    },
+    {
+        "idx": 245,
+        "sentence": "Norton connected first and very hard .",
+        "label": "{'Norton': 'Person'}"
+    },
+    {
+        "idx": 246,
+        "sentence": "He finished the year 1977 40-1 with 36 KO's .",
+        "label": "{}"
+    },
+    {
+        "idx": 247,
+        "sentence": "All four of his pro losses were by KO .",
+        "label": "{}"
+    },
+    {
+        "idx": 248,
+        "sentence": "No. 18 later moved to northern Australia , No. 120 to Western Australia and later transferring overseas ..",
+        "label": "{'Western Australia': 'Location', 'No. 120': 'Organization', 'Australia': 'Location', 'No. 18': 'Organization'}"
+    },
+    {
+        "idx": 249,
+        "sentence": "Henry Eberhard Faber is the namesake for both the college in Animal House and the character Faber in Fahrenheit 451 .",
+        "label": "{'Henry Eberhard Faber': 'Person', 'Fahrenheit 451': 'Miscellaneous', 'Animal House': 'Miscellaneous', 'Faber': 'Person'}"
+    },
+    {
+        "idx": 250,
+        "sentence": "In 1885 Hitzig became a professor at the University of Halle , where he remained until his retirement in 1903 .",
+        "label": "{'University of Halle': 'Organization', 'Hitzig': 'Person'}"
+    },
+    {
+        "idx": 251,
+        "sentence": "In 1870 Hitzig published his findings in an essay called \" On the Electrical Excitability of the Cerebrum \" . This experimentation was considered the first time anyone had done any \" localized study \" regarding the brain and electrical current .",
+        "label": "{'On the Electrical Excitability of the Cerebrum': 'Miscellaneous', 'Hitzig': 'Person'}"
+    },
+    {
+        "idx": 252,
+        "sentence": "In the late 1930s in Budapest the restaurant owner László hires the pianist András to play in his restaurant .",
+        "label": "{'László': 'Person', 'András': 'Person', 'Budapest': 'Location'}"
+    },
+    {
+        "idx": 253,
+        "sentence": "After a few years Nazi Germany captures Budapest and Hans returns .",
+        "label": "{'Hans': 'Person', 'Nazi Germany': 'Location', 'Budapest': 'Location'}"
+    },
+    {
+        "idx": 254,
+        "sentence": "The street was built in the 1880s and now hosts Brixton Market , selling a mix of African , Caribbean , English , Portuguese and Chinese products .",
+        "label": "{'Chinese': 'Miscellaneous', 'Caribbean': 'Miscellaneous', 'Portuguese': 'Miscellaneous', 'Brixton Market': 'Organization', 'African': 'Miscellaneous', 'English': 'Miscellaneous'}"
+    },
+    {
+        "idx": 255,
+        "sentence": "Production at Elm Coulee has more than doubled the oil output of the state of Montana .",
+        "label": "{'Montana': 'Location', 'Elm Coulee': 'Location'}"
+    },
+    {
+        "idx": 256,
+        "sentence": "In 1942 , along with Dr. Haidar Abdel-Shafi , and the late Mukhlis Amer , Emil Habibi and Mufid Nashashibi , Touma was a founder of the Palestinian National Liberation League .",
+        "label": "{'Emil Habibi': 'Person', 'Mukhlis Amer': 'Person', 'Touma': 'Person', 'Palestinian National Liberation League': 'Organization', 'Haidar Abdel-Shafi': 'Person', 'Mufid Nashashibi': 'Person'}"
+    },
+    {
+        "idx": 257,
+        "sentence": "Eugenio Calabi ( born 1923 ) is an Italian-American mathematician and professor emeritus at the University of Pennsylvania , specializing in differential geometry , partial differential equations and their applications .",
+        "label": "{'University of Pennsylvania': 'Organization', 'Eugenio Calabi': 'Person', 'Italian-American': 'Miscellaneous'}"
+    },
+    {
+        "idx": 258,
+        "sentence": "Scott Chair of Mathematics at the University of Pennsylvania in 1967 .",
+        "label": "{'University of Pennsylvania': 'Organization', 'Scott': 'Person'}"
+    },
+    {
+        "idx": 259,
+        "sentence": "The trains designated as Express Nakhonphink are Train No. 1 for Bangkok - Chiang Mai and Train No. 2 for Chiang Mai - Bangkok .",
+        "label": "{'Bangkok': 'Location', 'Express Nakhonphink': 'Miscellaneous', 'Chiang Mai': 'Location'}"
+    },
+    {
+        "idx": 260,
+        "sentence": "EZ2DJ is a series of music video games created by the South Korean company Amuseworld .",
+        "label": "{'Amuseworld': 'Organization', 'EZ2DJ': 'Miscellaneous', 'South Korean': 'Miscellaneous'}"
+    },
+    {
+        "idx": 261,
+        "sentence": "Ez2DJ 2nd TraX - It Rules Once Again - ( October , 2000 )",
+        "label": "{'Ez2DJ 2nd TraX - It Rules Once Again': 'Miscellaneous'}"
+    },
+    {
+        "idx": 262,
+        "sentence": "Ez2DJ 7th TraX - Resistance - Version 1.50 ( December , 2007 )",
+        "label": "{'Ez2DJ 7th TraX - Resistance - Version 1.50': 'Miscellaneous'}"
+    },
+    {
+        "idx": 263,
+        "sentence": "However , unlike the Beatmania series ( including III and IIDX ) , depending on the gamemode , effector button are treated as a gameplay button , especially in the gamemode \" Radio Mix \" , where each player need to control 2 effector buttons .",
+        "label": "{'III': 'Miscellaneous', 'Beatmania': 'Miscellaneous', 'IIDX': 'Miscellaneous'}"
+    },
+    {
+        "idx": 264,
+        "sentence": "Written by Erin ( 10/14/07 ) , Edited by AHRISA ( 07/01/08 )",
+        "label": "{'AHRISA': 'Person', 'Erin': 'Person'}"
+    },
+    {
+        "idx": 265,
+        "sentence": "3 .",
+        "label": "{}"
+    },
+    {
+        "idx": 266,
+        "sentence": "5 .",
+        "label": "{}"
+    },
+    {
+        "idx": 267,
+        "sentence": "( 1 ) 1st Tracks / 1st SE",
+        "label": "{'1st Tracks': 'Miscellaneous', '1st SE': 'Miscellaneous'}"
+    },
+    {
+        "idx": 268,
+        "sentence": "A Korean Judge 's ruling has ordered Amuse World to pay Konami damages and stop production of the product completely .",
+        "label": "{'Amuse World': 'Organization', 'Korean': 'Miscellaneous', 'Konami': 'Organization'}"
+    },
+    {
+        "idx": 269,
+        "sentence": "This area continues to be the core of the system , and is noted for the number of residents in the Richmond Highway area who use the service at all times of the day .",
+        "label": "{'Richmond Highway': 'Location'}"
+    },
+    {
+        "idx": 270,
+        "sentence": "Base fare is usually $1 , but can be as much as $3 for express routes .",
+        "label": "{}"
+    },
+    {
+        "idx": 271,
+        "sentence": "Fairmont State University is a public university located in Fairmont , West Virginia ( population 19,097 ) .",
+        "label": "{'West Virginia': 'Location', 'Fairmont': 'Location', 'Fairmont State University': 'Organization'}"
+    },
+    {
+        "idx": 272,
+        "sentence": "On April 7 , 2004 , Governor Bob Wise signed legislation allowing Fairmont State College to change its name to Fairmont State University .",
+        "label": "{'Fairmont State College': 'Organization', 'Fairmont State University': 'Organization', 'Bob Wise': 'Person'}"
+    },
+    {
+        "idx": 273,
+        "sentence": "Fairmont State 's athletic teams , known as the Falcons , compete in the West Virginia Intercollegiate Athletic Conference in NCAA Division II .",
+        "label": "{'Falcons': 'Organization', 'NCAA Division II': 'Organization', 'West Virginia Intercollegiate Athletic Conference': 'Organization', 'Fairmont State': 'Organization'}"
+    }
+]

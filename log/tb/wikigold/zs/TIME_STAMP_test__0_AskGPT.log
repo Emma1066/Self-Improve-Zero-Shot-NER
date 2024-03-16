@@ -1,0 +1,32 @@
+2024-03-16 14:45:20,367 - root - [INFO] - ---------- Ask ChatGPT ------------
+2024-03-16 14:45:20,368 - root - [INFO] - dataname: wikigold
+2024-03-16 14:45:20,368 - root - [INFO] - folder: 0
+2024-03-16 14:45:20,368 - root - [INFO] - datamode: test
+2024-03-16 14:45:20,368 - root - [INFO] - model: gpt-3.5-turbo
+2024-03-16 14:45:20,368 - root - [INFO] - ports: None
+2024-03-16 14:45:20,369 - root - [INFO] - task_hint: None
+2024-03-16 14:45:20,369 - root - [INFO] - reason_hint: None
+2024-03-16 14:45:20,369 - root - [INFO] - reason_hint_person: None
+2024-03-16 14:45:20,369 - root - [INFO] - reason_hint_pos: None
+2024-03-16 14:45:20,369 - root - [INFO] - few_shot_setting: zs
+2024-03-16 14:45:20,369 - root - [INFO] - demo_size: 300
+2024-03-16 14:45:20,370 - root - [INFO] - demo_select_method: None
+2024-03-16 14:45:20,370 - root - [INFO] - demo_retrieval_method: None
+2024-03-16 14:45:20,370 - root - [INFO] - few_shot_number: 0
+2024-03-16 14:45:20,370 - root - [INFO] - consistency: 0
+2024-03-16 14:45:20,370 - root - [INFO] - query_times: 5
+2024-03-16 14:45:20,370 - root - [INFO] - temperature: 0
+2024-03-16 14:45:20,370 - root - [INFO] - consistency_selection: two_stage_majority_voting
+2024-03-16 14:45:20,370 - root - [INFO] - tool_aug: None
+2024-03-16 14:45:20,371 - root - [INFO] - tool_desc: None
+2024-03-16 14:45:20,371 - root - [INFO] - parse_tool: hanlp
+2024-03-16 14:45:20,371 - root - [INFO] - start_time: TIME_STAMP
+2024-03-16 14:45:20,371 - root - [INFO] - breakpoint_continue: False
+2024-03-16 14:45:20,371 - root - [INFO] - stop: None
+2024-03-16 14:45:20,371 - root - [INFO] - api_key: [{'key': 'sk-4xiiTbqBYkXPmU2q79090748331744668610668a88D30349', 'set_base': True, 'api_base': 'https://api.ai-gaochao.cn/v1'}]
+2024-03-16 14:45:20,371 - root - [INFO] - abb2labelname_path: data/wikigold/abb2labelname.json
+2024-03-16 14:45:20,372 - root - [INFO] - abb2lname: {'ORG': 'Organization', 'PER': 'Person', 'LOC': 'Location', 'MISC': 'Miscellaneous'}
+2024-03-16 14:45:20,372 - root - [INFO] - id2label: ['Organization', 'Person', 'Location', 'Miscellaneous']
+2024-03-16 14:45:20,372 - root - [INFO] - prompt_path: prompts/wikigold/zs/test_prompts__0.json
+2024-03-16 14:45:20,372 - root - [INFO] - response_path: result/tb/wikigold/zs\TIME_STAMP_test__0_response.txt
+2024-03-16 14:45:20,372 - root - [INFO] - log_path: log/tb/wikigold/zs\TIME_STAMP_test__0_AskGPT.log

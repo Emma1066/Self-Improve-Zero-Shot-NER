@@ -1,0 +1,60 @@
+2024-03-16 15:41:45,585 - root - [INFO] - 
+
+
+---------- Parse answers ------------
+2024-03-16 15:41:45,585 - root - [INFO] - dataname: wikigold
+2024-03-16 15:41:45,586 - root - [INFO] - folder: 0
+2024-03-16 15:41:45,586 - root - [INFO] - datamode: test
+2024-03-16 15:41:45,586 - root - [INFO] - demo_datamode: train_shuffle_42
+2024-03-16 15:41:45,586 - root - [INFO] - model: gpt-3.5-turbo
+2024-03-16 15:41:45,586 - root - [INFO] - ports: None
+2024-03-16 15:41:45,586 - root - [INFO] - task_hint: None
+2024-03-16 15:41:45,586 - root - [INFO] - reason_hint: None
+2024-03-16 15:41:45,586 - root - [INFO] - reason_hint_person: None
+2024-03-16 15:41:45,587 - root - [INFO] - reason_hint_pos: None
+2024-03-16 15:41:45,587 - root - [INFO] - few_shot_setting: pool
+2024-03-16 15:41:45,587 - root - [INFO] - demo_size: 500
+2024-03-16 15:41:45,587 - root - [INFO] - demo_select_method: std_c5_th_ent_4.0
+2024-03-16 15:41:45,587 - root - [INFO] - demo_retrieval_method: GPTEmbDvrsKNN
+2024-03-16 15:41:45,588 - root - [INFO] - few_shot_number: 16
+2024-03-16 15:41:45,588 - root - [INFO] - n_skip: None
+2024-03-16 15:41:45,588 - root - [INFO] - diverseKNN_number: 50
+2024-03-16 15:41:45,588 - root - [INFO] - diverseKNN_sampling: Sc
+2024-03-16 15:41:45,588 - root - [INFO] - consistency: 0
+2024-03-16 15:41:45,588 - root - [INFO] - query_times: 5
+2024-03-16 15:41:45,589 - root - [INFO] - temperature: 0
+2024-03-16 15:41:45,589 - root - [INFO] - consis_level: question
+2024-03-16 15:41:45,589 - root - [INFO] - consistency_selection: two_stage_majority_voting
+2024-03-16 15:41:45,589 - root - [INFO] - output_SC_all_answer: 0
+2024-03-16 15:41:45,589 - root - [INFO] - tool_aug: None
+2024-03-16 15:41:45,589 - root - [INFO] - tool_desc: None
+2024-03-16 15:41:45,589 - root - [INFO] - parse_tool: hanlp
+2024-03-16 15:41:45,589 - root - [INFO] - start_time: TIME_STAMP
+2024-03-16 15:41:45,590 - root - [INFO] - self_annotation: False
+2024-03-16 15:41:45,590 - root - [INFO] - self_annotate_tag: std_c5
+2024-03-16 15:41:45,590 - root - [INFO] - confident: False
+2024-03-16 15:41:45,590 - root - [INFO] - confidence_scoring_method: SC
+2024-03-16 15:41:45,590 - root - [INFO] - conf_select_method: None
+2024-03-16 15:41:45,590 - root - [INFO] - confident_sample_size: 0
+2024-03-16 15:41:45,590 - root - [INFO] - lang: en
+2024-03-16 15:41:45,591 - root - [INFO] - prompt_pool: <class 'DesignPrompts.PromptPoolEnglish'>
+2024-03-16 15:41:45,591 - root - [INFO] - stop: None
+2024-03-16 15:41:45,591 - root - [INFO] - api_key: [{'key': 'sk-4xiiTbqBYkXPmU2q79090748331744668610668a88D30349', 'set_base': True, 'api_base': 'https://api.ai-gaochao.cn/v1'}]
+2024-03-16 15:41:45,591 - root - [INFO] - abb2labelname_path: data/wikigold/abb2labelname.json
+2024-03-16 15:41:45,591 - root - [INFO] - abb2lname: {'ORG': 'Organization', 'PER': 'Person', 'LOC': 'Location', 'MISC': 'Miscellaneous'}
+2024-03-16 15:41:45,591 - root - [INFO] - id2label: ['Organization', 'Person', 'Location', 'Miscellaneous']
+2024-03-16 15:41:45,591 - root - [INFO] - prompt_path: prompts/self_consistent_annotate/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/st_std_c5_test_prompts__16.json
+2024-03-16 15:41:45,591 - root - [INFO] - response_path: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/TIME_STAMP_st_std_c5_test__16_response.txt
+2024-03-16 15:41:45,592 - root - [INFO] - response_dir: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc
+2024-03-16 15:41:45,592 - root - [INFO] - pred_path: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/TIME_STAMP_st_std_c5_test__16_response.json
+2024-03-16 15:41:45,592 - root - [INFO] - SC_all_ans_path: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/TIME_STAMP_st_std_c5_test__16_SC_all_ans.json
+2024-03-16 15:41:45,592 - root - [INFO] - metric_path: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/TIME_STAMP_st_std_c5_test__16_metrics.csv
+2024-03-16 15:41:45,592 - root - [INFO] - twostage_path: result/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc/TIME_STAMP_st_std_c5_test__16_metrics_twostage.csv
+2024-03-16 15:41:45,592 - root - [INFO] - log_path: log/self_consistent_annotate/tb/wikigold/self_supervision/train_shuffle_42/fs_pool_std_c5_th_ent_4.0_500_GPTEmbDvrsKNN_50_Sc\TIME_STAMP_st_std_c5_test__16_Metr.log
+2024-03-16 15:41:45,609 - root - [INFO] - ===== Metrics =====
+            Type  Gold count Gold rate  Pred count Pred rate  Correct count    Prec     Rec     F1
+0   Organization           6     35.29           4     25.00              4  100.00   66.67  80.00
+1         Person           2     11.76           3     18.75              2   66.67  100.00  80.00
+2       Location           5     29.41           7     43.75              5   71.43  100.00  83.33
+3  Miscellaneous           4     23.53           2     12.50              2  100.00   50.00  66.67
+4          ToTal          17       100          16       100             13   81.25   76.47  78.79

@@ -1,0 +1,58 @@
+2024-03-16 15:24:07,299 - root - [INFO] - 
+
+
+---------- Parse answers ------------
+2024-03-16 15:24:07,299 - root - [INFO] - dataname: wikigold
+2024-03-16 15:24:07,299 - root - [INFO] - folder: 0
+2024-03-16 15:24:07,300 - root - [INFO] - datamode: train_shuffle_42
+2024-03-16 15:24:07,300 - root - [INFO] - demo_datamode: train_shuffle_42
+2024-03-16 15:24:07,300 - root - [INFO] - model: gpt-3.5-turbo
+2024-03-16 15:24:07,300 - root - [INFO] - ports: None
+2024-03-16 15:24:07,300 - root - [INFO] - task_hint: None
+2024-03-16 15:24:07,301 - root - [INFO] - reason_hint: None
+2024-03-16 15:24:07,301 - root - [INFO] - reason_hint_person: None
+2024-03-16 15:24:07,301 - root - [INFO] - reason_hint_pos: None
+2024-03-16 15:24:07,301 - root - [INFO] - few_shot_setting: zs
+2024-03-16 15:24:07,301 - root - [INFO] - demo_size: 1
+2024-03-16 15:24:07,301 - root - [INFO] - demo_select_method: None
+2024-03-16 15:24:07,301 - root - [INFO] - demo_retrieval_method: None
+2024-03-16 15:24:07,302 - root - [INFO] - few_shot_number: 0
+2024-03-16 15:24:07,302 - root - [INFO] - n_skip: None
+2024-03-16 15:24:07,302 - root - [INFO] - diverseKNN_number: 50
+2024-03-16 15:24:07,302 - root - [INFO] - diverseKNN_sampling: random
+2024-03-16 15:24:07,302 - root - [INFO] - consistency: 1
+2024-03-16 15:24:07,302 - root - [INFO] - query_times: 5
+2024-03-16 15:24:07,302 - root - [INFO] - temperature: 0.7
+2024-03-16 15:24:07,302 - root - [INFO] - consis_level: question
+2024-03-16 15:24:07,303 - root - [INFO] - consistency_selection: two_stage_majority_voting
+2024-03-16 15:24:07,303 - root - [INFO] - output_SC_all_answer: 0
+2024-03-16 15:24:07,303 - root - [INFO] - tool_aug: None
+2024-03-16 15:24:07,303 - root - [INFO] - tool_desc: None
+2024-03-16 15:24:07,303 - root - [INFO] - parse_tool: hanlp
+2024-03-16 15:24:07,303 - root - [INFO] - start_time: TIME_STAMP
+2024-03-16 15:24:07,303 - root - [INFO] - self_annotation: True
+2024-03-16 15:24:07,304 - root - [INFO] - self_annotate_tag: None
+2024-03-16 15:24:07,304 - root - [INFO] - confident: True
+2024-03-16 15:24:07,304 - root - [INFO] - confidence_scoring_method: SC
+2024-03-16 15:24:07,304 - root - [INFO] - conf_select_method: th_ent_3.0
+2024-03-16 15:24:07,304 - root - [INFO] - confident_sample_size: 0
+2024-03-16 15:24:07,304 - root - [INFO] - lang: en
+2024-03-16 15:24:07,304 - root - [INFO] - prompt_pool: <class 'DesignPrompts.PromptPoolEnglish'>
+2024-03-16 15:24:07,305 - root - [INFO] - stop: None
+2024-03-16 15:24:07,305 - root - [INFO] - api_key: [{'key': 'sk-4xiiTbqBYkXPmU2q79090748331744668610668a88D30349', 'set_base': True, 'api_base': 'https://api.ai-gaochao.cn/v1'}]
+2024-03-16 15:24:07,305 - root - [INFO] - abb2labelname_path: data/wikigold/abb2labelname.json
+2024-03-16 15:24:07,305 - root - [INFO] - abb2lname: {'ORG': 'Organization', 'PER': 'Person', 'LOC': 'Location', 'MISC': 'Miscellaneous'}
+2024-03-16 15:24:07,305 - root - [INFO] - id2label: ['Organization', 'Person', 'Location', 'Miscellaneous']
+2024-03-16 15:24:07,305 - root - [INFO] - MV_func: <function two_stage_majority_voting at 0x0000026AF4BEC820>
+2024-03-16 15:24:07,305 - root - [INFO] - response_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV/TIME_STAMP_train_shuffle_42__0_th_ent_3.0_response.txt
+2024-03-16 15:24:07,306 - root - [INFO] - pred_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV/TIME_STAMP_train_shuffle_42__0_th_ent_3.0_response.json
+2024-03-16 15:24:07,306 - root - [INFO] - metric_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV/TIME_STAMP_train_shuffle_42__0_th_ent_3.0_metrics.csv
+2024-03-16 15:24:07,306 - root - [INFO] - twostage_path: result/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV/TIME_STAMP_train_shuffle_42__0_th_ent_3.0_metrics_twostage.csv
+2024-03-16 15:24:07,306 - root - [INFO] - log_path: log/self_consistent_annotate/tb/wikigold/self_annotation/train_shuffle_42/zs_consist_0.7_5_TSMV\TIME_STAMP_train_shuffle_42__0_th_ent_3.0_Metr.log
+2024-03-16 15:24:07,317 - root - [INFO] - ===== Metrics =====
+            Type  Gold count Gold rate  Pred count Pred rate  Correct count    Prec     Rec      F1
+0   Organization           0      0.00           0      0.00              0    0.00    0.00    0.00
+1         Person           6     66.67           6     75.00              6  100.00  100.00  100.00
+2       Location           0      0.00           0      0.00              0    0.00    0.00    0.00
+3  Miscellaneous           3     33.33           2     25.00              2  100.00   66.67   80.00
+4          ToTal           9       100           8       100              8  100.00   88.89   94.12
