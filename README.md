@@ -97,3 +97,16 @@ sh scripts/wikigold_3_test_inference.sh
 * `--demo_retrieval_method`. `"GPTEmbDvrsKNN"` means diverse nearest.
 * `--diverseKNN_number`: the value of K in the diverse nearest.
 * `--diverseKNN_sampling`: `random` means random sample from K neighbors. `Sc` means select top-k SC score samples from K neighbors.
+
+## Citation
+
+```bibtex
+@misc{xie2023selfimproving,
+      title={Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models}, 
+      author={Tingyu Xie and Qi Li and Yan Zhang and Zuozhu Liu and Hongwei Wang},
+      year={2023},
+      eprint={2311.08921},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
